@@ -18,6 +18,7 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date(),
           userId: 1,
+          locationId: 4,
         },
         {
           name: "CryptoVenturer #02 Elowen",
@@ -33,6 +34,7 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date(),
           userId: 1,
+          locationId: 1,
         },
         {
           name: "CryptoVenturer #03 William",
@@ -47,6 +49,7 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date(),
           userId: 1,
+          locationId: 2,
         },
         {
           name: "CryptoVenturer #04 Harked",
@@ -62,6 +65,7 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date(),
           userId: 1,
+          locationId: 7,
         },
         {
           name: "CryptoVenturer #05 Bellmoral",
@@ -77,6 +81,7 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date(),
           userId: 1,
+          locationId: 7,
         },
         {
           name: "CryptoVenturer #06 Tsunenobu",
@@ -92,6 +97,7 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date(),
           userId: 1,
+          locationId: 3,
         },
         {
           name: "CryptoVenturer #07 Hannelore",
@@ -107,6 +113,7 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date(),
           userId: 1,
+          locationId: 6,
         },
         {
           name: "CryptoVenturer #08 Corby",
@@ -121,6 +128,7 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date(),
           userId: 1,
+          locationId: 1,
         },
         {
           name: "CryptoVenturer #09 Donovan",
@@ -136,6 +144,7 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date(),
           userId: 1,
+          locationId: 2,
         },
         {
           name: "CryptoVenturer #10 Lonnie",
@@ -151,6 +160,7 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date(),
           userId: 1,
+          locationId: 1,
         },
         {
           name: "CryptoVenturer #11 Shirai",
@@ -166,6 +176,7 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date(),
           userId: 1,
+          locationId: 3,
         },
         {
           name: "CryptoVenturer #12 Aidan",
@@ -181,6 +192,7 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date(),
           userId: 1,
+          locationId: 1,
         },
         {
           name: "CryptoVenturer #13 Ayako",
@@ -196,6 +208,7 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date(),
           userId: 1,
+          locationId: 3,
         },
         {
           name: "CryptoVenturer #14 Gylbart",
@@ -211,6 +224,7 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date(),
           userId: 1,
+          locationId: 1,
         },
         {
           name: "CryptoVenurer #15 Tomas",
@@ -226,6 +240,7 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date(),
           userId: 1,
+          locationId: 2,
         },
         {
           name: "CryptoVenturer #16 Taulvel",
@@ -241,6 +256,7 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date(),
           userId: 1,
+          locationId: 7,
         },
         {
           name: "CryptoVenturer #17 Bayley",
@@ -256,6 +272,7 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date(),
           userId: 1,
+          locationId: 1,
         },
         {
           name: "CryptoVenturer #18 Bell",
@@ -271,6 +288,7 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date(),
           userId: 1,
+          locationId: 4,
         },
         {
           name: "CryptoVenturer #19 Nigel",
@@ -286,6 +304,7 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date(),
           userId: 1,
+          locationId: 1,
         },
         {
           name: "CryptoVenturer #20 Ubarin",
@@ -301,6 +320,7 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date(),
           userId: 1,
+          locationId: 5,
         },
       ],
       {}
