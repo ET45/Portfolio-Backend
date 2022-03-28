@@ -227,7 +227,7 @@ module.exports = {
           locationId: 1,
         },
         {
-          name: "CryptoVenurer #15 Tomas",
+          name: "CryptoVenturer #15 Tomas",
           image:
             "https://lh3.googleusercontent.com/3-qawpSeSMxFeQ5Qzs08rFC-Olt6SLwqMraMHkhyUHx7PnaLstracH35_Tv87uEflStuxZswqi4wdN1mGRZ1xn1q4q-6p0ZEQQeP_Q=w600",
           link: "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/72667608849864227059809180087652648768815904362030701562513443564187522433025",
